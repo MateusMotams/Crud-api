@@ -15,7 +15,7 @@ Antes de rodar o projeto, você precisa ter instalado:
 
 - [Docker](https://www.docker.com/)
 - [Docker Compose](https://docs.docker.com/compose/)
-- Se preferir, recomendo baixar o Docker Desktop:[Docker-Desktop](https://docs.docker.com/desktop/) onde o Docker+Docker Compose já vem instalados e facilita a visualização dos containers
+- Se preferir, recomendo baixar o Docker Desktop, onde o Docker+Docker Compose já vem instalados e facilita a visualização dos containers [Docker-Desktop](https://docs.docker.com/desktop/)
 
 ---
 
