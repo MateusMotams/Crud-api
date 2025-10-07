@@ -1,0 +1,16 @@
+###listar os usuarios 
+
+Get http://localhost:3000/developers
+
+### Retorna um usuario especifico
+Get http://localhost:3000/developers/1
+
+
+###Cria um usuario
+POST http://localhost:3000/developers/
+
+### Update de um usuario 
+PATCH  http://localhost:3000/developers/3
+
+### Deleta um usuario
+DELETE http://localhost:3000/developers/3
