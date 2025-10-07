@@ -26,14 +26,13 @@ Antes de rodar o projeto, você precisa ter instalado:
   docker compose up --build
 
 ### 3. Para Testes de rota utilize quais quer uma das extensões a seguir no VsCode
-<!-- Insomnia -->
-![Insomnia](https://img.shields.io/badge/-transparent?style=for-the-badge&logo=insomnia&logoColor=white&label=)
 
-<!-- Thunder Client (emoji simulado) -->
-![Thunder](https://img.shields.io/badge/-⚡-000000?style=for-the-badge&label=)
+- Insomnia ![Insomnia](https://img.shields.io/badge/-transparent?style=for-the-badge&logo=insomnia&logoColor=white&label=)
 
-<!-- REST Client (emoji simulado) -->
-![REST](https://img.shields.io/badge/-🌐-blue?style=for-the-badge&label=)
+
+- Thunder Client![Thunder](https://img.shields.io/badge/-⚡-000000?style=for-the-badge&label=)
+
+- ResClient ![REST](https://img.shields.io/badge/-🌐-blue?style=for-the-badge&label=)
 
 
 Por padrão a api roda localmente na porta 3000. 
