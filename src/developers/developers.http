@@ -3,7 +3,7 @@
 Get http://localhost:3000/developers
 
 ### Retorna um usuario especifico
-Get http://localhost:3000/developers/1
+Get http://localhost:3000/developers/dev_Ik-garTbeN
 
 
 ###Cria um usuario
