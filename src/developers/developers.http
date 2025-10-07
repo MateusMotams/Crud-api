@@ -8,6 +8,14 @@ Get http://localhost:3000/developers/1
 
 ###Cria um usuario
 POST http://localhost:3000/developers/
+content-type: application/json
+
+{
+    "name": "Lara",
+    "email": "email@Teste.com",
+    "dateOfBirth": "2000-01-01"
+}
+
 
 ### Update de um usuario 
 PATCH  http://localhost:3000/developers/3

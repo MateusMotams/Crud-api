@@ -4,7 +4,7 @@ import { UpdateDeveloperDto } from './dto/update-developer.dto';
 
 @Injectable()
 export class DevelopersService {
-  create(createDeveloperDto: CreateDeveloperDto) {
+  create(dto: CreateDeveloperDto) {
     return 'This action adds a new developer';
   }
 
