@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  nest-app:
+    build: .
+    container_name: nest-crud
+    volumes:
+      - .:/app
+    ports:
+      - "3000:3000"
+    environment:
+      - NODE_ENV=production
+    command: npm run start:prod
